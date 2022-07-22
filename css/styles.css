@@ -294,6 +294,9 @@ img{
 
 .home__img img{
     width: 240px;
+    height: 750px;
+    margin-bottom: 50px;
+    border-radius: 30px;
 }
 
 .home__social{
